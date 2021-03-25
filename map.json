@@ -111,7 +111,7 @@
          "name":"furniture0",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -267,8 +267,6 @@
          "height":34,
          "id":22,
          "name":"furniture2",
-         "offsetx":-2,
-         "offsety":6,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
