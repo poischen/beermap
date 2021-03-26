@@ -364,11 +364,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"collidate",
-                 "type":"bool",
-                 "value":false
-                }, 
-                {
                  "name":"startLayer",
                  "type":"bool",
                  "value":true
